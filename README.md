@@ -1,2 +1,2 @@
 # my_first_repository
-This is my first 
+This is my first Git repository
